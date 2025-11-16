@@ -1,5 +1,14 @@
 # HUMMBL Prototype
 
+> **⚠️ ARCHIVED REPOSITORY**  
+> This repository contains the initial prototype phase (October-November 2025) documenting the development of the Decomposition (DE) operator.  
+> 
+> **For current development and all 6 operators, see:** [hummbl-research](https://github.com/hummbl-dev/hummbl-research)  
+> 
+> This repo remains available as a historical record of the research process and initial validation methodology.
+
+---
+
 **Python research implementation of HUMMBL mental model transformations**
 
 ## Purpose
